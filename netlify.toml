@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/project-b/*"
+  to = "/:splat"
+  status = 200
